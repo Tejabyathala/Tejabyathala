@@ -1,42 +1,24 @@
-# Premium Portfolio 
+# Welcome to My Portfolio
 
-## Professional Branding 
+Hello! I'm Tejabyathala, a recent graduate with a passion for Data Science and Artificial Intelligence/Machine Learning. I thrive on turning complex data into actionable insights and am excited about the endless possibilities these fields offer.
 
-![Branding Badge](https://img.shields.io/badge/Branding-Professional-brightgreen)  
-Here's a succinct description of how my branding has evolved with time, showcasing my unique professional identity.  
+## About Me
+I hold a degree in [Your Degree] from [Your University], where I developed a strong foundation in statistics, programming, and data analysis techniques. My academic projects have allowed me to dive into various aspects of data science, from data preprocessing to model deployment.
 
-## Detailed Project Showcases with Metrics  
+## Skills
+- **Programming Languages**: Python, R
+- **Data Analysis**: Pandas, NumPy, SQL
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Statistical Analysis**: Regression, Classification, Clustering
 
-### Project 1: [Project Title 1](link-to-project)  
-- **Description**: A brief overview of the project.  
-- **Metrics**:  
-  - 💡 Users: 1000+  
-  - 📊 Revenue: $5000  
+## Projects
+Here are some projects I have worked on:
+1. **[Project Title]**: A brief description of the project, what tools were used, and what you learned from it.
+2. **[Project Title]**: A brief description of the project, what tools were used, and what you learned from it.
+3. **[Project Title]**: A brief description of the project, what tools were used, and what you learned from it.
 
-### Project 2: [Project Title 2](link-to-project)  
-- **Description**: Another important project that enhanced my skills.  
-- **Metrics**:  
-  - 💡 Users: 2000+  
-  - 📊 Revenue: $10000  
+## Getting In Touch
+Feel free to connect with me on [LinkedIn](your-linkedin-url) or email me at [your-email@example.com]. I'm open to opportunities in data science and AI/ML!
 
-## Skills Matrix  
-
-| Skill         | Proficiency |  
-|---------------|-------------|  
-| JavaScript    | Expert      |  
-| React         | Advanced    |  
-| CSS           | Proficient  |  
-
-## Certifications Table  
-
-| Certification       | Issuing Organization | Date Obtained  |  
-|---------------------|--------------------|----------------|  
-| Certified Developer  | ABC Institute       | 2023-01-15     |  
-| Project Management   | XYZ Academy         | 2023-02-20     |  
-
-## GitHub Analytics  
-
-![GitHub Stats](https://img.shields.io/badge/Contributions-100-brightgreen)  
-![GitHub Stars](https://img.shields.io/badge/Stars-50-yellow)  
-
-Keep connecting with me on my journey towards excellence!  
+Thank you for visiting my portfolio!
