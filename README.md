@@ -1,130 +1,81 @@
-# Hi, I'm Teja Byathala 👋
+# 👋 Hi, I'm Teja Byathala
 
-🎓 **B.Tech CSE (Data Science)** | 🤖 **AI & ML Enthusiast** | 💻 **Aspiring Software Developer**
+### 🤖 AI & ML Developer | 📊 Data Analyst
 
----
-
-## 🌱 About Me
-
-Recent graduate passionate about **Data Science** and **Machine Learning**. I enjoy working with data to uncover insights and building intelligent systems. Currently exploring opportunities to apply my technical skills in real-world projects.
-
-**What I'm interested in:**
-- 📊 Data Analysis and Visualization
-- 🤖 Machine Learning & AI Applications
-- 💻 Python Development
-- 🧠 Natural Language Processing (NLP)
+Software Developer with strong skills in Python, Machine Learning, NLP, and Data Analytics.  
+Passionate about building intelligent solutions and solving real-world problems.
 
 ---
 
-## 🛠 Technical Skills
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tejabyathala)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tejabyathala)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tejabyathala@gmail.com)
 
-### 💻 Programming Languages
-- Python (Intermediate)
-- Java (OOP)
+---
 
-### 📊 Data Science & Analytics
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Power BI, Tableau
-- Statistical Analysis
+## 🛠 Skills
 
-### 🤖 Machine Learning
-- PyTorch
-- Scikit-learn
-- NLP (LLM, RAG concepts)
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C](https://img.shields.io/badge/C-grey)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-purple)
+![NLP](https://img.shields.io/badge/NLP-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+
+### 📊 Data Tools
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![NumPy](https://img.shields.io/badge/NumPy-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
 
 ### 🗄 Databases
-- MongoDB
-- MySQL(Intermediate)
-
-### ⚙️ Tools & Platforms
-- Google Colab
-- Jupyter Notebook
-- MS Office
-- WEKA
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
 ---
 
-## 📚 Projects
+## 📊 Projects
 
-### 🔹 Virtual Interactive Builder of Experiences (Storytelling Chatbot)
-A project where I built an AI-based storytelling system using modern ML techniques.
-
-**What I learned:**
-- RAG (Retrieval-Augmented Generation) architecture
-- Working with MongoDB and vector databases
-- LLM integration and prompt engineering
-- Building scalable AI applications
-
-**Tech Stack:** MongoDB, Pinecone, LLM, Python
-
-👉 [View Project](https://github.com/tejabyathala)
+### 🔹 Storytelling Chatbot
+AI chatbot using RAG + LLM for personalized storytelling  
+👉 [View Project](https://github.com/tejabyathala/project-link)
 
 ---
 
-### 🔹 AI Financial Chatbot (BCG GenAI Simulation)
-A simulation project where I designed an AI chatbot to interpret financial reports.
-
-**What I learned:**
-- Chatbot design and development
-- Handling complex financial data
-- Building rule-based systems
-- Prompt engineering basics
-
-**Tech Stack:** Python, GenAI, Prompt Engineering
-
-👉 [View Project](https://github.com/tejabyathala)
+### 🔹 Sales Data Analysis
+Analyzed sales data and built dashboards for insights  
+👉 [View Project](https://github.com/tejabyathala/project-link)
 
 ---
 
-### 🔹 Grocery Sales Data Analysis (Cognizant Simulation)
-An end-to-end data science project analyzing sales patterns and building predictive models.
-
-**What I learned:**
-- Exploratory Data Analysis (EDA)
-- Data preprocessing and cleaning
-- Building ML models
-- Evaluating model performance
-- Data visualization and insights
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-
-👉 [View Project](https://github.com/tejabyathala)
-
----
-
-## 🏆 Certifications
-
-- ✅ Data Science Internship – Internship Studio
-- ✅ AI Job Simulation – Cognizant (Forage)
-- ✅ GenAI Job Simulation – BCG (Forage)
-- ✅ Data Visualization – TATA (Forage)
-- ✅ Power BI – PwC Switzerland (Forage)
-- ✅ Data Science & ML – YBI Foundation
+### 🔹 AI Financial Chatbot
+Chatbot to interpret financial reports and provide insights  
+👉 [View Project](https://github.com/tejabyathala/project-link)
 
 ---
 
 ## 🎓 Education
-
-**B.Tech Computer Science Engineering (Data Science)**  
-K.G. Reddy College of Engineering
-
-📊 **CGPA:** 81.6%
+**B.Tech CSE (Data Science)**  
+K.G. Reddy College of Engineering  
+📊 CGPA: 8.16
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 **Email:** [tejabyathala@gmail.com](mailto:tejabyathala@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tejabyathala](https://linkedin.com/in/tejabyathala)
-- 💻 **GitHub:** [github.com/tejabyathala](https://github.com/tejabyathala)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejabyathala&show_icons=true)
+## 🏆 Certifications
+- Data Science – Internship Studio  
+- AI Simulation – Cognizant  
+- GenAI Simulation – BCG  
+- Power BI – PwC  
 
 ---
 
-⭐ *"Excited to learn, grow, and make an impact through data science and AI!"*
+## 📈 GitHub Stats
+![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejabyathala&show_icons=true)
+
+---
+
+⭐ *Building intelligent systems using data and AI*
