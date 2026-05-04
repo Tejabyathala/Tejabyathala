@@ -1,3 +1,4 @@
+![Banner](https://via.placeholder.com/1200x300.png?text=Teja+Byathala+-+AI+%7C+ML+Developer)
 # Hi, I'm Teja Byathala 👋
 
 🎓 B.Tech CSE (Data Science) | 🤖 AI & ML Enthusiast | 💻 Software Developer  
@@ -15,6 +16,10 @@ Experienced in building Machine Learning models using PyTorch and Scikit-learn, 
 ---
 
 ## 🛠 Technical Skills
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 
 ### 💻 Programming
 - Python (Intermediate)
@@ -101,3 +106,4 @@ Experienced in building Machine Learning models using PyTorch and Scikit-learn, 
 ---
 
 ⭐ *“Turning data into actionable insights and intelligent solutions.”*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejabyathala&show_icons=true&theme=default)
