@@ -21,7 +21,6 @@ Recent graduate passionate about **Data Science** and **Machine Learning**. I en
 ### 💻 Programming Languages
 - Python (Intermediate)
 - Java (OOP)
-- C
 
 ### 📊 Data Science & Analytics
 - Pandas, NumPy
@@ -36,7 +35,7 @@ Recent graduate passionate about **Data Science** and **Machine Learning**. I en
 
 ### 🗄 Databases
 - MongoDB
-- MySQL
+- MySQL(Intermediate)
 
 ### ⚙️ Tools & Platforms
 - Google Colab
