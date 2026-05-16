@@ -19,7 +19,6 @@ Experienced in building Machine Learning models using PyTorch and Scikit-learn, 
 ### 💻 Programming
 - Python (Intermediate)
 - Java (OOP)
-- C
 
 ### 📊 Data & Analytics
 - Pandas, NumPy  
@@ -37,7 +36,8 @@ Experienced in building Machine Learning models using PyTorch and Scikit-learn, 
 
 ### ⚙️ Tools
 - MS Office  
-- WEKA  
+- Git
+- VS code 
 
 ---
 
